@@ -1,0 +1,1 @@
+import{_ as o,a as c,o as n,c as r,b as t}from"./index-cMtleGJX.js";const a={};function s(_,m){const e=c("SvgIcon");return n(),r("div",null,[t(e,{name:"vue",width:"100rem",height:"100rem",color:"red"})])}const d=o(a,[["render",s]]);export{d as default};
